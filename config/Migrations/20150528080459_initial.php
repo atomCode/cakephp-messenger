@@ -17,12 +17,12 @@ class Initial extends AbstractMigration
                 'limit' => 100,
                 'null' => false,
             ])
-            ->addColumn('created', 'timestamp', [
+            ->addColumn('created', 'datetime', [
                 'default' => null,
                 'limit' => null,
                 'null' => true,
             ])
-            ->addColumn('modified', 'timestamp', [
+            ->addColumn('modified', 'datetime', [
                 'default' => null,
                 'limit' => null,
                 'null' => true,

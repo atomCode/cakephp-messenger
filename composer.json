@@ -1,5 +1,5 @@
 {
-    "name": "your-name-here/Cakephp-messenger",
+    "name": "chrisShick/messenger",
     "description": "Cakephp-messenger plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {

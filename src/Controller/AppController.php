@@ -1,6 +1,6 @@
 <?php
 
-namespace Cakephp-messenger\Controller;
+namespace Messenger\Controller;
 
 use App\Controller\AppController as BaseController;
 

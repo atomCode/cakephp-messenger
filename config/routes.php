@@ -1,6 +1,6 @@
 <?php
 use Cake\Routing\Router;
 
-Router::plugin('messenger', function ($routes) {
+Router::plugin('Messenger', function ($routes) {
     $routes->fallbacks('InflectedRoute');
 });
